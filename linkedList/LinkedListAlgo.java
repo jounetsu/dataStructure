@@ -3,7 +3,7 @@ package linkedList;
 /**
  * 链表相关
  *
- * @author wangjinfei
+ * @author wjf
  * @date 2018/11/07
  */
 public class LinkedListAlgo {
